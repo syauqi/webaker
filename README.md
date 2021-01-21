@@ -45,5 +45,5 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi.
 - **Webaker is open-sourced software licensed under the MIT license.**
 
 ------------
-- **Made with ❤️ by Syauqi Zaidan Khairan Khalaf .**
+- **Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF.**
 
